@@ -88,11 +88,7 @@ Iris.csv                 # Dataset file
 iris_classification.ipynb  # Main notebook (Colab compatible)
 README.md                # Project overview
 
-Next Steps / Extensions
 
-Try other models: SVM, Decision Tree, KNN
-Use cross-validation
-Add interactive visualizations with Plotly
 
 
 
